@@ -1,6 +1,7 @@
 # ML4Earth Hackathon 2024 - Starter Kit
 
-Link to the hackathon on the devpost Platform: https://ml4earth24.devpost.com/
+* Link to the hackathon on the devpost Platform: https://ml4earth24.devpost.com/
+* Slack workspace for communication during the hackathon: https://join.slack.com/t/ml4earthworkspace/shared_invite/zt-2q7pseobr-JX302q4~tl3dbYoFCWPq9Q
 
 ## In this Starter Pack
 
