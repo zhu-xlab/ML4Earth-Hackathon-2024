@@ -5,9 +5,10 @@
 
 ## In this Starter Pack
 
-* A [Jupyter Notebook](https://github.com/zhu-xlab/ML4Earth-Hackathon-2024/blob/main/Hackathon_Starter_Notebook.ipynb) to get you started <a target="_blank" href="https://colab.research.google.com/github/zhu-xlab/ML4Earth-Hackathon-2024/blob/main/Hackathon_Starter_Notebook.ipynb">
+* [A Jupyter Notebook](https://github.com/zhu-xlab/ML4Earth-Hackathon-2024/blob/main/Hackathon_Starter_Notebook.ipynb) to get you started <a target="_blank" href="https://colab.research.google.com/github/zhu-xlab/ML4Earth-Hackathon-2024/blob/main/Hackathon_Starter_Notebook.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+* [The kick-off slides](https://github.com/zhu-xlab/ML4Earth-Hackathon-2024/blob/main/HackathonIntro.pdf) containing organizational information about the hackathon
 
 ## About the Hackathon
 
